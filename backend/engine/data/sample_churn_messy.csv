@@ -1,0 +1,1225 @@
+customer_id,city,tenure_months,monthly_charges,contract_type,internet_service,payment_method,senior_citizen,churn,data_source_flag
+CUST-00051,Bangalore,37.0,19.72,Month-to-month,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00522,Hyderabad,14.0,51.77,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00179,Chennai,17.0,68.66,Month-to-month,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-01172,Bangalore,48.0,45.79,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00937,Bangalore,32.0,100.51,One year,DSL,Mailed check,1.0,Yes,batch_import_2026
+CUST-01151,Pune,3.0,132.27,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-00205,Pune,30.0,19.0,Month-to-month,DSL,,1.0,Yes,batch_import_2026
+CUST-01089,Mumbai,54.0,90.32,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00656,Hyderabad,7.0,84.98,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01113,Mumbai,69.0,,Two year,,,0.0,Yes,batch_import_2026
+CUST-00034,Bangalore,58.0,74.06,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00735,Bangalore,56.0,22.62,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00063,Hyderabad,17.0,,One year,No,,0.0,No,batch_import_2026
+CUST-00641,Mumbai,71.0,73.54,Two year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00761,Hyderabad,2.0,10.0,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-00927,Hyderabad,24.0,44.89,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00454,Bangalore,3.0,117.23,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00355,Hyderabad,58.0,75.65,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-01072,Chennai,11.0,91.42,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00445,Chennai,41.0,82.06,Two year,No,Credit card,1.0,No,batch_import_2026
+CUST-00350,,48.0,100.76,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00172,Mumbai,42.0,57.84,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00513,Pune,5.0,140.27,Month-to-month,No,,1.0,Yes,batch_import_2026
+CUST-00627,Pune,51.0,117.55,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00022,Hyderabad,24.0 ,91.92,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00790,Bangalore,23.0,56.51,Two year,No,Bank transfer,0.0,Yes,batch_import_2026
+,Pune,12.0,120.67,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00253,Delhi,14.0,52.61,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01037,Mumbai,17.0,77.34,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00631,Mumbai,59.0,21.26,One year,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00452,Bangalore,32.0,89.96,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00544,Mumbai,1.0,41.55,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00525,Pune,9.0,38.18,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00189,Hyderabad,23.0,83.19,One year,Fiber optic,Mailed check,,No,batch_import_2026
+CUST-00101,Bangalore,26.0,54.43,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00734,Chennai,68.0,,Month-to-month,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00334,Mumbai,32.0,69.45,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00996,Chennai,38.0,76.56,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00446,Bangalore,27.0,,One year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00170,Bangalore,69.0,133.42,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00632,Bangalore,18.0,,Two year,DSL,Mailed check,0.0,Yes,batch_import_2026
+,Bangalore,65.0,40.24,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00285,Delhi,30.0,74.5,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01060,Hyderabad,16.0,84.68,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00572,Bangalore,20.0,78.12,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00027,Pune,32.0,,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00426,Chennai,21.0,58.24,One year,No,Electronic check,1.0,No,batch_import_2026
+CUST-01135,,44.0,,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00278,Pune,64.0,101.31,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-01109,Delhi,12.0,81.93,Month-to-month,,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00665,Chennai,54.0,70.96,One year,No,Mailed check,0.0,No,batch_import_2026
+,Delhi,21.0,,Month-to-month,DSL,Credit card,1.0,Yes,batch_import_2026
+CUST-00650,Chennai,18.0,74.42,One year,,Mailed check,1.0,No,batch_import_2026
+CUST-00680,Pune,7.0,45.98,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00498,Pune,37.0 ,99.11,Month-to-month,No,,0.0,No,batch_import_2026
+CUST-00113,Chennai,58.0,54.01,Two year,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-00128,Bangalore,40.0,,Month-to-month,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00652,Bangalore,31.0,92.34,Month-to-month,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00673,Pune,55.0 ,77.77,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00046,Bangalore,8.0,36.0,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01148,Chennai,42.0,89.23,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-01187,Hyderabad,43.0,68.29,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+,Bangalore,41.0,95.69,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00509,Chennai,23.0,126.2,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00797,Delhi,66.0,102.03,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00455,Pune,45.0,10.0,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00986,Mumbai,22.0,50.29,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00643,Hyderabad,10.0 ,100.47,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00660,Mumbai,38.0,75.23,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00724,Pune,56.0,17.3,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00924,Bangalore,63.0,77.63,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00620,Pune,31.0,94.7,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00220,,38.0,76.76,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00408,Delhi,54.0,95.84,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00921,Delhi,33.0,28.29,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00284,Delhi,59.0,104.5,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00878,Hyderabad,54.0,100.98,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00367,Hyderabad,37.0,82.67,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01173,Bangalore,65.0,88.94,Month-to-month,DSL,,0.0,Yes,batch_import_2026
+CUST-00430,Hyderabad,21.0 ,43.54,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00758,Pune,39.0 ,25.77,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00060,Mumbai,19.0,95.87,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00228,Chennai,22.0,,One year,No,Bank transfer,1.0,No,batch_import_2026
+CUST-00825,Delhi,68.0,54.89,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00361,Hyderabad,65.0,48.04,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00649,Hyderabad,66.0,61.07,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00541,Pune,44.0,69.81,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-01177,Bangalore,44.0,76.13,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-01104,Delhi,35.0,30.31,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00110,Delhi,16.0 ,86.36,Month-to-month,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00528,Chennai,60.0,75.98,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00626,Chennai,1.0,83.18,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00463,,51.0 ,138.21,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01168,Pune,23.0,94.43,One year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00289,Bangalore,29.0,127.89,Month-to-month,,Credit card,0.0,Yes,batch_import_2026
+CUST-00009,Chennai,21.0,55.72,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00816,Pune,7.0,67.76,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00053,Pune,33.0,75.11,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01014,Hyderabad,47.0,63.78,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00767,Pune,4.0,20.07,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00397,Bangalore,67.0,,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-01124,Bangalore,9.0,102.35,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00262,Mumbai,62.0 ,83.94,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00040,Delhi,33.0,,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00109,Bangalore,23.0,61.66,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+CUST-00609,Mumbai,51.0 ,,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00845,Delhi,4.0,73.39,Two year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01064,Pune,46.0,108.42,Two year,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-01082,Delhi,20.0,53.7,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00083,Mumbai,63.0 ,68.51,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00564,Hyderabad,52.0,66.57,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00866,Bangalore,28.0,,Month-to-month,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-00407,Pune,13.0,37.99,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00098,Hyderabad,44.0,98.95,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00633,Mumbai,66.0,,Month-to-month,,Mailed check,1.0,No,batch_import_2026
+CUST-01189,Pune,24.0,86.29,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00374,Delhi,31.0,10.0,One year,,Mailed check,0.0,No,batch_import_2026
+CUST-00270,Bangalore,15.0,93.14,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00336,Pune,27.0,96.09,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00997,Hyderabad,35.0,,Two year,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00151,Chennai,60.0,62.81,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00511,Mumbai,32.0 ,,Two year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00928,Mumbai,11.0,77.52,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00619,Delhi,60.0,,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00488,Mumbai,42.0,61.71,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00318,Pune,12.0,68.06,Month-to-month,No,,0.0,No,batch_import_2026
+CUST-00231,Bangalore,54.0,56.56,Month-to-month,,Credit card,1.0,No,batch_import_2026
+CUST-00252,Bangalore,13.0,21.64,Month-to-month,No,Bank transfer,,No,batch_import_2026
+CUST-00857,Chennai,51.0,40.6,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01120,Chennai,68.0,75.28,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00054,Hyderabad,58.0,45.24,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00379,Bangalore,17.0,62.87,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00431,Bangalore,22.0,58.42,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00141,Bangalore,48.0,38.18,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00810,Hyderabad,12.0,111.64,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00097,,36.0,34.27,One year,,Mailed check,1.0,No,batch_import_2026
+CUST-00756,Chennai,31.0,66.84,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00983,Pune,19.0,124.58,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00571,Pune,13.0,60.07,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00432,Hyderabad,47.0,,Month-to-month,,Mailed check,1.0,Yes,batch_import_2026
+CUST-00523,Chennai,54.0,28.94,One year,DSL,,0.0,No,batch_import_2026
+CUST-00012,,65.0,15.82,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00685,Mumbai,51.0,106.53,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00817,Hyderabad,20.0,35.26,Two year,No,Bank transfer,1.0,No,batch_import_2026
+CUST-00146,Chennai,6.0,75.27,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00679,Mumbai,2.0,88.12,One year,DSL,Mailed check,1.0,Yes,batch_import_2026
+CUST-01134,Pune,32.0,75.46,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00013,Bangalore,0.0,82.42,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00617,,2.0,38.28,Two year,DSL,Mailed check,,Yes,batch_import_2026
+CUST-00551,Mumbai,51.0,24.87,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00888,Pune,36.0,63.15,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00698,Delhi,4.0,96.81,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00020,Hyderabad,58.0,10.0,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00895,Hyderabad,50.0,,One year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00351,Delhi,29.0,52.19,Month-to-month,,,0.0,Yes,batch_import_2026
+CUST-00874,Delhi,8.0,,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00306,Pune,22.0,35.99,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00824,Delhi,58.0,,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00399,Hyderabad,38.0,65.54,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00204,Chennai,52.0,59.01,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01170,Bangalore,61.0,133.39,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00677,Mumbai,34.0,37.31,Two year,DSL,Credit card,,No,batch_import_2026
+CUST-01194,Delhi,28.0,95.9,Month-to-month,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00017,Bangalore,57.0,,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00389,Chennai,11.0,38.34,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00880,Bangalore,56.0,135.48,One year,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00503,Chennai,38.0,71.62,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00534,Pune,52.0,87.77,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00272,Bangalore,14.0,60.28,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00115,Bangalore,27.0 ,79.83,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00207,Mumbai,37.0,37.42,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00492,Bangalore,60.0,31.8,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00716,Bangalore,67.0,113.28,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01086,Pune,57.0,100.42,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00974,Pune,17.0,74.98,One year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00140,Hyderabad,0.0,,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00886,Mumbai,20.0,36.72,Month-to-month,,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00263,Chennai,41.0,47.63,Two year,,Credit card,0.0,No,batch_import_2026
+CUST-01158,Hyderabad,68.0,43.88,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00418,Bangalore,1.0,93.77,One year,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00565,Pune,4.0,,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00484,Delhi,63.0,91.08,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-01169,Delhi,2.0,44.84,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00556,Pune,5.0,96.68,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00747,Delhi,67.0,105.1,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00358,Mumbai,60.0,,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00108,Hyderabad,43.0,93.67,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00671,Delhi,15.0,28.01,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01114,Mumbai,15.0,10.0,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00999,Delhi,14.0,65.64,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00099,Bangalore,62.0 ,64.19,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00216,Mumbai,62.0 ,,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00585,Hyderabad,57.0,57.49,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00385,Mumbai,2.0,84.01,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00420,Bangalore,41.0,53.53,One year,,Electronic check,0.0,No,batch_import_2026
+CUST-00412,Chennai,17.0,75.76,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00706,Bangalore,71.0,101.96,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00941,Pune,2.0,81.83,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00557,,55.0,138.58,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00793,Bangalore,54.0,10.0,Two year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00305,Hyderabad,48.0,91.31,Two year,,Credit card,0.0,Yes,batch_import_2026
+CUST-00913,Hyderabad,40.0,114.34,Month-to-month,No,Credit card,,Yes,batch_import_2026
+CUST-00662,Delhi,68.0,,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-01165,Bangalore,8.0,59.95,One year,,Mailed check,1.0,No,batch_import_2026
+CUST-00363,Chennai,57.0,,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00023,Bangalore,20.0,76.43,Month-to-month,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01038,Delhi,26.0,,Month-to-month,,,0.0,Yes,batch_import_2026
+CUST-00264,Mumbai,71.0,29.92,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00755,Mumbai,36.0,26.32,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-01035,Bangalore,49.0,37.64,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00186,Delhi,54.0,,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00562,Pune,24.0,,Two year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00862,Bangalore,69.0,54.52,Two year,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00947,Mumbai,41.0,95.59,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00123,Hyderabad,45.0,84.13,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00638,Bangalore,2.0,54.2,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00902,Pune,59.0,63.96,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01049,Pune,37.0,99.12,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00768,Pune,36.0,44.61,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00586,Hyderabad,32.0,10.45,Two year,No,Bank transfer,,No,batch_import_2026
+CUST-01137,Mumbai,29.0,,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-01074,Pune,3.0,51.86,Two year,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00147,Bangalore,47.0,19.69,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00933,Mumbai,60.0,69.49,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00493,Delhi,9.0,56.91,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00224,Pune,71.0,57.22,Month-to-month,,,0.0,No,batch_import_2026
+CUST-00831,Bangalore,49.0,113.98,One year,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00070,Bangalore,63.0,67.19,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00691,Pune,71.0,74.86,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00280,Mumbai,55.0,12.76,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00171,Mumbai,46.0,62.91,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00748,Pune,17.0,27.96,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00168,Chennai,27.0,32.46,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00891,Hyderabad,32.0,49.57,One year,,,0.0,No,batch_import_2026
+CUST-00283,Bangalore,41.0,68.29,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-01051,,45.0,70.76,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00125,Delhi,48.0,78.02,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-01164,Pune,10.0,38.97,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01195,Pune,52.0,48.51,Two year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+,Bangalore,17.0,56.26,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-01008,Delhi,58.0,10.0,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-01152,Bangalore,1.0,40.1,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00531,Hyderabad,5.0,66.78,Month-to-month,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00840,Chennai,3.0,,Month-to-month,,,0.0,Yes,batch_import_2026
+CUST-00042,Bangalore,60.0,70.95,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00781,Mumbai,50.0,82.32,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00918,Pune,66.0,57.55,Month-to-month,,Credit card,1.0,No,batch_import_2026
+CUST-00688,Pune,52.0,86.65,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-00578,Mumbai,45.0 ,81.09,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00132,Pune,3.0,46.86,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-01013,Hyderabad,26.0 ,54.06,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00467,Delhi,64.0,52.86,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00038,Pune,24.0,92.19,Month-to-month,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00963,Mumbai,21.0,61.77,One year,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-01005,Bangalore,59.0,38.6,One year,,Bank transfer,0.0,Yes,batch_import_2026
+CUST-01041,Pune,27.0,74.9,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00508,Pune,15.0,44.59,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00166,Hyderabad,3.0,51.94,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00540,Chennai,34.0,44.69,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00071,Pune,14.0,54.46,Two year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00906,Hyderabad,26.0,,Month-to-month,,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00905,Delhi,58.0,37.8,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01199,Pune,30.0,10.0,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00992,Bangalore,16.0,13.38,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00926,Pune,4.0 ,103.39,Month-to-month,DSL,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00004,Pune,41.0,63.32,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00339,Bangalore,69.0,59.34,Month-to-month,No,Credit card,1.0,No,batch_import_2026
+CUST-00694,Bangalore,18.0,80.29,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00714,Chennai,43.0,49.08,One year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00377,Pune,18.0,,Month-to-month,Fiber optic,,1.0,No,batch_import_2026
+CUST-00447,Mumbai,45.0,70.84,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00651,Chennai,8.0,53.51,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-01052,Delhi,11.0,33.62,One year,DSL,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00500,Bangalore,22.0,65.0,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00804,Hyderabad,42.0,149.87,Two year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01076,Delhi,57.0,58.16,Month-to-month,,Credit card,1.0,No,batch_import_2026
+CUST-00094,Chennai,17.0,79.96,One year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00095,Bangalore,38.0,38.3,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00308,Chennai,9.0,84.94,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00746,Pune,69.0,35.45,One year,No,Credit card,,No,batch_import_2026
+CUST-00489,Delhi,7.0,16.96,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00602,Chennai,14.0,84.22,One year,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00058,Chennai,31.0,79.8,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00661,Delhi,41.0,10.0,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00325,Mumbai,60.0,44.82,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00517,Mumbai,41.0,48.76,One year,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00024,Delhi,51.0,46.97,Two year,Fiber optic,Mailed check,,Yes,batch_import_2026
+CUST-01023,Hyderabad,55.0,,One year,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00244,Pune,34.0,88.53,One year,,Bank transfer,0.0,No,batch_import_2026
+CUST-00025,Hyderabad,18.0,64.55,One year,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-00222,Mumbai,56.0,21.3,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00603,Pune,13.0,91.9,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00105,Bangalore,4.0,33.88,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-01085,Hyderabad,44.0 ,63.25,Two year,,,0.0,No,batch_import_2026
+CUST-00130,Chennai,25.0,42.76,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00153,Pune,68.0,46.63,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01078,Hyderabad,27.0,26.87,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00972,Pune,66.0,68.58,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00870,Hyderabad,45.0,34.04,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00808,Pune,20.0,109.03,One year,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00075,,0.0,101.34,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-01132,Pune,36.0,25.62,One year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-01069,Chennai,51.0,62.93,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00922,Bangalore,5.0,100.29,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00316,Chennai,52.0,87.21,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00984,Delhi,22.0,,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-00742,Bangalore,24.0,146.07,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00199,Chennai,8.0,20.07,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00861,Chennai,52.0,90.55,Two year,No,Mailed check,,No,batch_import_2026
+CUST-00134,Hyderabad,59.0,10.0,Two year,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-00326,Delhi,42.0,73.31,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00259,Pune,24.0,,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00971,Hyderabad,32.0,109.43,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00003,Mumbai,64.0,41.83,Two year,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00848,Chennai,57.0,,Month-to-month,No,,,No,batch_import_2026
+CUST-00210,Bangalore,49.0,45.64,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00196,Bangalore,57.0,37.4,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00108,Hyderabad,43.0,93.67,Two year,DSL,Credit card,0.0,No,batch_import_2026
+,Pune,60.0,105.22,Month-to-month,No,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00591,Pune,71.0,71.58,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00026,Chennai,71.0,87.7,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-01088,Delhi,28.0,110.7,One year,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00901,Bangalore,33.0,90.29,Two year,DSL,Mailed check,,No,batch_import_2026
+CUST-01129,Pune,19.0,37.36,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00594,Bangalore,57.0 ,63.17,Month-to-month,No,Electronic check,1.0,Yes,batch_import_2026
+CUST-00061,Delhi,35.0,57.8,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00722,Pune,18.0,63.27,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01042,Bangalore,19.0,,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00982,Delhi,24.0,47.16,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00681,Hyderabad,22.0,74.92,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00637,Hyderabad,9.0,102.81,Month-to-month,No,Credit card,1.0,Yes,batch_import_2026
+CUST-00779,Chennai,54.0,,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00597,Pune,55.0,10.0,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00573,Chennai,19.0,96.4,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00457,,59.0,91.44,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00925,Mumbai,36.0,87.96,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00885,Pune,14.0,,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00008,Bangalore,3.0,76.91,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00977,Pune,68.0,102.92,Two year,DSL,Electronic check,,No,batch_import_2026
+CUST-00666,Hyderabad,61.0,100.77,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-01042,Bangalore,19.0,,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00648,Delhi,26.0,,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00657,Pune,8.0,71.58,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00819,Bangalore,57.0,61.73,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01116,Pune,0.0,50.46,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00074,Bangalore,35.0,51.82,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00563,,26.0,33.24,Two year,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-01018,Pune,38.0,,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00057,Hyderabad,45.0,79.82,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01026,Bangalore,12.0,71.82,Two year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00478,Bangalore,45.0,87.49,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00297,Chennai,37.0,87.32,Month-to-month,DSL,Mailed check,,Yes,batch_import_2026
+CUST-00954,Delhi,18.0 ,58.94,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00217,Chennai,25.0,66.14,One year,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00712,Delhi,40.0,67.56,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00668,Chennai,32.0,30.96,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00344,Pune,29.0,,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00713,Bangalore,61.0,70.26,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-01059,Delhi,22.0,60.03,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00939,Chennai,51.0,54.0,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00754,Chennai,53.0,42.16,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-01039,Bangalore,46.0,69.02,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00702,Hyderabad,37.0,29.62,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00868,Chennai,2.0,144.52,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00957,Delhi,30.0,51.3,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00266,Chennai,9.0,108.45,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00006,Mumbai,60.0,82.52,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00868,Chennai,2.0,144.52,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00122,Bangalore,32.0,10.0,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01048,Bangalore,13.0,58.58,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00138,Mumbai,68.0,124.4,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00163,Pune,66.0,62.93,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00733,Chennai,28.0,73.62,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00548,Chennai,62.0,63.8,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+,,14.0,10.0,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00043,Pune,11.0,105.3,Month-to-month,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00778,Chennai,71.0,23.85,One year,Fiber optic,Credit card,,No,batch_import_2026
+CUST-01055,Pune,69.0,130.29,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00319,Pune,3.0,111.43,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00800,Chennai,69.0,30.16,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00795,Bangalore,11.0,31.19,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00451,Delhi,6.0,,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00294,Mumbai,17.0,37.18,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00587,Bangalore,46.0,30.46,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00558,Delhi,38.0,,One year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01019,Hyderabad,22.0,58.1,One year,,Electronic check,0.0,No,batch_import_2026
+CUST-00506,Delhi,51.0,88.78,One year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00019,Mumbai,33.0,39.07,One year,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00518,Mumbai,63.0,58.62,Month-to-month,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00473,Mumbai,46.0,53.79,Month-to-month,,Credit card,0.0,Yes,batch_import_2026
+,Chennai,10.0,,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00699,Mumbai,28.0,110.5,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01054,Delhi,5.0,49.3,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00409,Delhi,41.0,,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-01100,Bangalore,27.0,79.86,Two year,DSL,Electronic check,,No,batch_import_2026
+CUST-00137,Delhi,69.0,98.34,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-01121,Bangalore,34.0,,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00526,Hyderabad,36.0,59.58,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00185,Bangalore,33.0,,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00970,Hyderabad,23.0,32.3,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01139,Hyderabad,30.0,42.11,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01156,Delhi,25.0,100.71,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00872,,65.0,58.57,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01146,,15.0,85.77,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00507,Pune,17.0,75.47,Month-to-month,Fiber optic,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00327,Pune,8.0,87.08,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00317,Pune,14.0,68.63,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00837,Hyderabad,48.0,108.64,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-01142,Mumbai,48.0,85.14,Month-to-month,DSL,,0.0,No,batch_import_2026
+,Pune,19.0,,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00731,Mumbai,38.0,71.62,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00799,Mumbai,42.0,69.49,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00471,Hyderabad,1.0,91.54,Two year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00483,Mumbai,18.0,30.47,One year,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00785,Bangalore,49.0,11.51,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00148,Chennai,38.0,73.92,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00488,Mumbai,42.0,61.71,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00998,Delhi,5.0,85.04,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00708,Mumbai,60.0,116.46,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-01183,Pune,41.0,31.92,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01110,Chennai,67.0,35.17,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00365,Bangalore,63.0,91.55,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00912,Bangalore,7.0,28.45,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00530,Chennai,46.0,75.68,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00820,Pune,33.0,122.92,Month-to-month,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-00815,Delhi,57.0,13.94,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+,Pune,54.0,70.01,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00569,Chennai,54.0,39.47,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00232,Mumbai,53.0,62.31,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00956,Bangalore,27.0,68.54,Two year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01184,Pune,14.0,53.61,Two year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00812,Bangalore,27.0,28.93,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00590,Mumbai,29.0,,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00158,Hyderabad,20.0,104.65,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00315,Chennai,28.0,58.42,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00256,Pune,7.0,11.78,Month-to-month,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01028,Mumbai,42.0,10.0,Month-to-month,DSL,Electronic check,,Yes,batch_import_2026
+CUST-00096,Chennai,52.0 ,54.15,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01182,Mumbai,27.0,69.2,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00462,Chennai,6.0,68.57,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00384,Hyderabad,17.0,10.0,Month-to-month,DSL,Credit card,1.0,Yes,batch_import_2026
+CUST-01163,Bangalore,63.0,99.7,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00177,Pune,29.0,92.55,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00474,Chennai,47.0,31.47,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00328,Pune,53.0,66.07,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00314,Bangalore,44.0,125.67,Month-to-month,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00415,Hyderabad,69.0,125.63,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00357,Chennai,52.0,,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00347,Delhi,13.0,25.99,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00504,Delhi,21.0,37.65,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00298,Bangalore,38.0,51.88,Month-to-month,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00435,Bangalore,57.0,33.02,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01143,Hyderabad,11.0,45.13,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00788,Chennai,24.0,47.81,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00705,Bangalore,2.0,39.58,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00960,Mumbai,24.0,91.91,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00658,Mumbai,12.0,92.8,One year,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00249,Bangalore,52.0,36.28,Month-to-month,No,Mailed check,1.0,No,batch_import_2026
+CUST-00843,Delhi,55.0,,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00015,Mumbai,59.0 ,74.25,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01067,Pune,55.0 ,21.69,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00159,Pune,10.0,86.17,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-01093,Chennai,18.0,13.05,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00610,Mumbai,14.0,,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00360,Chennai,66.0,65.9,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00048,Pune,32.0,59.06,Two year,DSL,Mailed check,,No,batch_import_2026
+CUST-00202,Hyderabad,7.0,74.36,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00330,Bangalore,65.0,49.35,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00598,Pune,43.0,60.58,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00510,Bangalore,61.0,134.28,Two year,Fiber optic,,,Yes,batch_import_2026
+CUST-00112,Chennai,27.0 ,57.99,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00338,Mumbai,9.0,43.8,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00307,Chennai,51.0,57.77,One year,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00789,Chennai,21.0,10.0,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00422,Hyderabad,60.0,66.84,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00416,Pune,64.0,76.13,One year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+,Mumbai,47.0,28.59,One year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00410,Mumbai,27.0,78.87,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+,Bangalore,35.0,37.07,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00791,Mumbai,12.0,87.56,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00855,Hyderabad,29.0,78.6,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00644,Delhi,24.0 ,101.37,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00395,Mumbai,22.0,79.9,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00667,Pune,13.0,50.45,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00459,Bangalore,57.0,,Month-to-month,,,1.0,No,batch_import_2026
+CUST-00655,Bangalore,71.0,108.33,Month-to-month,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+,Pune,10.0,54.76,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01056,Pune,24.0,52.73,Month-to-month,No,Credit card,,No,batch_import_2026
+CUST-01188,Hyderabad,55.0,,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00373,Mumbai,2.0,116.01,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00773,,63.0,,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00449,Pune,43.0,35.8,Month-to-month,No,,1.0,No,batch_import_2026
+CUST-00237,Delhi,30.0,43.26,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00167,Bangalore,12.0,62.49,Two year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00782,Mumbai,21.0,45.7,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00635,Delhi,27.0,19.39,Two year,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00080,Delhi,38.0,,Two year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00414,Chennai,33.0,52.38,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00669,Delhi,65.0 ,125.84,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00300,Hyderabad,53.0,56.66,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00642,Hyderabad,9.0,84.2,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00324,Bangalore,58.0,70.62,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00935,Mumbai,56.0,21.47,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00215,Mumbai,49.0,68.17,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+,Bangalore,39.0,62.59,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00030,Chennai,41.0,85.46,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00752,Mumbai,59.0,77.48,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00242,Mumbai,62.0,,One year,DSL,,0.0,No,batch_import_2026
+CUST-00729,Chennai,45.0,10.0,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00640,Mumbai,66.0,54.88,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00817,Hyderabad,20.0,35.26,Two year,No,Bank transfer,1.0,No,batch_import_2026
+,Bangalore,14.0,39.9,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00209,Mumbai,62.0,78.06,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00547,Bangalore,63.0,10.0,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00435,Bangalore,57.0,33.02,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01140,Chennai,33.0,67.71,Month-to-month,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-01108,Mumbai,25.0,82.7,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00568,Mumbai,67.0,135.23,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00403,Pune,47.0,54.76,Month-to-month,,Mailed check,1.0,No,batch_import_2026
+CUST-00522,Hyderabad,14.0,51.77,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00362,Chennai,49.0,52.22,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00271,Mumbai,32.0,46.95,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00466,Delhi,33.0,38.8,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01083,Delhi,47.0,47.78,One year,DSL,Electronic check,,No,batch_import_2026
+CUST-00777,Chennai,59.0,74.16,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00277,Delhi,37.0,74.79,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01081,Chennai,66.0,69.37,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01157,Bangalore,55.0,,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01167,Delhi,22.0,22.46,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00697,,17.0,77.55,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00442,Hyderabad,35.0,,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00299,Pune,68.0,74.22,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00375,Bangalore,1.0,35.93,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00663,Pune,32.0 ,51.3,One year,,Bank transfer,0.0,No,batch_import_2026
+CUST-01180,Hyderabad,56.0,41.79,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00611,,32.0,,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00472,Bangalore,35.0,90.94,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00851,Delhi,69.0,22.33,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01101,Bangalore,31.0,22.42,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00388,Delhi,7.0,58.14,Month-to-month,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00022,Hyderabad,24.0,91.92,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00700,Chennai,53.0,69.94,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00915,Pune,28.0,118.67,Month-to-month,No,Mailed check,1.0,Yes,batch_import_2026
+CUST-00423,Bangalore,22.0,66.48,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00990,Pune,9.0,44.38,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00743,Mumbai,8.0,86.51,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+,Delhi,42.0,52.12,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01133,Bangalore,13.0,84.49,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00142,Delhi,1.0,28.79,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00050,Chennai,10.0,96.36,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00720,Pune,61.0,70.61,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00760,Bangalore,57.0,50.3,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00081,Bangalore,19.0,61.27,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00482,Hyderabad,11.0,100.19,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00321,Pune,15.0,96.66,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-01127,Pune,11.0,,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00718,Bangalore,11.0,72.75,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-01160,Mumbai,7.0,100.16,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00066,Delhi,6.0,43.93,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+,Bangalore,13.0,37.04,Two year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00936,Delhi,69.0,125.8,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00771,Bangalore,33.0,55.19,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00417,Delhi,61.0,118.31,Month-to-month,Fiber optic,Credit card,,No,batch_import_2026
+,Pune,19.0,23.48,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00064,Chennai,71.0,39.38,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00943,Bangalore,28.0,13.37,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00934,Mumbai,6.0,78.89,One year,DSL,Mailed check,,Yes,batch_import_2026
+,Bangalore,16.0,45.17,One year,Fiber optic,Credit card,,No,batch_import_2026
+CUST-00491,Mumbai,27.0,10.0,Month-to-month,DSL,Credit card,,Yes,batch_import_2026
+CUST-00732,Hyderabad,71.0,111.62,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00835,Chennai,24.0 ,30.51,Month-to-month,,Credit card,1.0,Yes,batch_import_2026
+CUST-00065,Mumbai,0.0,71.14,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01021,Chennai,50.0 ,43.65,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00595,Delhi,60.0,64.85,Month-to-month,No,Credit card,1.0,No,batch_import_2026
+CUST-01011,,32.0,51.48,Two year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00296,Delhi,11.0,78.81,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00419,,3.0,45.13,Month-to-month,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00438,Hyderabad,59.0,112.73,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00261,Pune,68.0,38.38,Two year,,,0.0,No,batch_import_2026
+CUST-00725,Bangalore,20.0,98.21,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00281,Hyderabad,53.0,56.61,Month-to-month,Fiber optic,Electronic check,1.0,Yes,batch_import_2026
+CUST-00858,Mumbai,38.0,36.7,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00882,Chennai,23.0 ,72.78,One year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00188,Hyderabad,34.0,84.91,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00929,Delhi,59.0,38.36,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-00251,Chennai,16.0,,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00783,,61.0,83.67,Two year,DSL,,0.0,No,batch_import_2026
+CUST-01122,Bangalore,61.0,,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00514,Chennai,24.0,88.52,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00618,Bangalore,24.0,64.39,One year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00487,Mumbai,47.0,,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00273,Chennai,70.0,139.59,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00995,Chennai,22.0,50.22,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01095,Pune,31.0,52.71,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00448,,18.0,68.73,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00411,Bangalore,2.0,40.24,Month-to-month,Fiber optic,,,No,batch_import_2026
+CUST-00887,Chennai,63.0,80.92,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00750,Chennai,48.0,73.37,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00969,Mumbai,25.0,30.54,Month-to-month,No,Mailed check,,Yes,batch_import_2026
+CUST-00985,Bangalore,63.0,30.11,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00149,Mumbai,9.0,,Two year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00218,Delhi,65.0,102.09,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00239,Hyderabad,58.0,94.37,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00751,Mumbai,69.0,91.49,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00192,Pune,3.0,87.51,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00191,Chennai,54.0,,One year,,Mailed check,0.0,No,batch_import_2026
+,Delhi,3.0,51.41,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00736,Hyderabad,13.0,107.93,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00704,Hyderabad,30.0,112.75,One year,DSL,Credit card,0.0,Yes,batch_import_2026
+,Pune,62.0,119.21,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00623,Bangalore,27.0,40.08,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00976,Delhi,55.0,,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+,Delhi,18.0,16.43,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00582,Bangalore,63.0,65.94,Month-to-month,No,,0.0,No,batch_import_2026
+CUST-01130,Delhi,54.0,56.34,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00323,Hyderabad,65.0,107.26,Month-to-month,Fiber optic,Credit card,,No,batch_import_2026
+CUST-00967,Mumbai,71.0,51.3,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00893,Chennai,54.0,87.61,Month-to-month,,Mailed check,1.0,No,batch_import_2026
+CUST-00687,Delhi,32.0,61.2,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00437,Delhi,9.0,35.99,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00806,Delhi,21.0,,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00876,Pune,4.0,79.04,One year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00341,Mumbai,33.0,23.39,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00002,Chennai,49.0,94.84,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00229,Bangalore,0.0,28.66,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00739,Bangalore,12.0,58.41,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01150,Bangalore,23.0,,Month-to-month,DSL,,0.0,Yes,batch_import_2026
+CUST-00076,Bangalore,44.0,132.16,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01125,Bangalore,32.0,62.02,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00371,Chennai,3.0 ,55.46,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+,Delhi,51.0,111.62,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00744,Mumbai,39.0,102.91,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00577,Chennai,53.0,37.21,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00769,Hyderabad,17.0,92.38,Month-to-month,DSL,Credit card,1.0,Yes,batch_import_2026
+CUST-00794,Mumbai,56.0,143.4,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01171,Mumbai,59.0,67.23,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+,Bangalore,10.0,,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00869,Mumbai,67.0,112.34,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00589,Chennai,51.0,,Month-to-month,DSL,Bank transfer,1.0,Yes,batch_import_2026
+CUST-01044,Chennai,64.0,36.86,Month-to-month,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00853,Pune,33.0,36.27,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01027,Pune,52.0,97.35,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00930,Chennai,57.0,44.26,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00037,,44.0,63.79,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00353,Delhi,55.0,86.42,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-01117,Mumbai,13.0,41.49,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00236,Hyderabad,60.0,81.55,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00978,Bangalore,20.0,94.03,Two year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00499,Hyderabad,27.0,10.0,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00553,Chennai,6.0,118.36,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00055,Bangalore,66.0,19.33,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00302,Hyderabad,56.0,61.04,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00286,,68.0,89.39,One year,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00993,Bangalore,62.0,24.85,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00219,Mumbai,37.0,77.75,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+,Mumbai,66.0,35.47,Two year,,Credit card,0.0,No,batch_import_2026
+CUST-00387,Bangalore,42.0,93.76,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00770,Hyderabad,65.0,58.5,Month-to-month,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00390,Delhi,8.0,76.22,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00352,Hyderabad,0.0,77.19,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00193,Mumbai,1.0,56.2,Two year,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00235,Delhi,9.0,45.76,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01031,Delhi,32.0,31.57,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00480,Chennai,64.0,79.44,One year,,Electronic check,1.0,No,batch_import_2026
+CUST-00567,Hyderabad,37.0,67.88,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00116,Hyderabad,41.0,85.14,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00981,Mumbai,27.0 ,,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00653,Bangalore,6.0,,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01010,Hyderabad,48.0,,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01128,Hyderabad,1.0,67.61,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00801,Mumbai,23.0,83.8,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00813,Mumbai,41.0,,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00120,Mumbai,31.0,,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00856,Mumbai,3.0,22.4,Two year,,Mailed check,1.0,No,batch_import_2026
+CUST-01040,Chennai,27.0,115.33,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01153,Bangalore,47.0,43.82,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00062,Bangalore,27.0,97.89,Month-to-month,,,0.0,No,batch_import_2026
+CUST-00696,Pune,47.0,106.94,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00453,Delhi,47.0,63.69,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00515,Chennai,54.0,71.63,One year,DSL,,0.0,No,batch_import_2026
+CUST-00570,Chennai,58.0,,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00223,Hyderabad,65.0,60.06,Month-to-month,DSL,,1.0,No,batch_import_2026
+CUST-00613,Delhi,27.0,71.28,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00221,Hyderabad,55.0,77.3,One year,No,,0.0,No,batch_import_2026
+CUST-00703,Delhi,8.0,21.87,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00830,Chennai,0.0,68.52,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00465,Chennai,62.0 ,31.73,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00052,Bangalore,69.0,37.55,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-01115,Chennai,1.0,102.15,Two year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00485,Delhi,32.0,99.74,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+,Hyderabad,3.0,89.65,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00964,Hyderabad,17.0,10.0,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00155,Chennai,65.0,64.11,Month-to-month,DSL,,1.0,Yes,batch_import_2026
+CUST-00962,Bangalore,45.0,85.63,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00600,Bangalore,22.0,48.57,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00920,Chennai,30.0,146.17,Month-to-month,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00248,Bangalore,6.0,35.64,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00441,Delhi,63.0,23.85,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-01105,Hyderabad,9.0,23.87,Month-to-month,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-01118,Hyderabad,28.0,75.18,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00542,Chennai,61.0,43.46,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00701,Pune,16.0,20.43,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00117,Chennai,70.0,49.75,One year,,Mailed check,0.0,No,batch_import_2026
+CUST-00757,Hyderabad,35.0,43.69,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00628,Chennai,55.0,64.03,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01181,Chennai,48.0,95.49,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00966,Bangalore,40.0,32.1,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00291,Hyderabad,66.0,72.61,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01062,Delhi,28.0,126.73,Two year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00381,Hyderabad,13.0,84.59,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00907,Bangalore,48.0,53.14,One year,Fiber optic,Electronic check,,No,batch_import_2026
+CUST-00953,Chennai,48.0,110.06,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00200,,29.0,45.53,One year,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00596,Delhi,6.0,62.54,Two year,Fiber optic,,0.0,No,batch_import_2026
+CUST-01025,Pune,4.0,55.84,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-01159,Hyderabad,15.0,13.22,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-01072,Chennai,11.0,91.42,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00899,Bangalore,58.0,95.85,Two year,,Bank transfer,0.0,No,batch_import_2026
+CUST-00505,Chennai,15.0,45.77,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+,Pune,52.0,54.24,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00968,Pune,36.0,112.45,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00787,Hyderabad,52.0,,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00340,Delhi,54.0,100.67,Two year,No,Electronic check,,No,batch_import_2026
+CUST-00615,Bangalore,30.0,53.94,One year,No,,0.0,No,batch_import_2026
+CUST-00154,Mumbai,43.0,14.52,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01126,Pune,11.0,108.18,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-00798,Delhi,60.0,94.49,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00077,Pune,59.0,124.97,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00287,Chennai,63.0,31.97,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00322,Bangalore,21.0,63.53,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00860,Bangalore,67.0,116.19,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00900,Mumbai,11.0,144.66,One year,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00833,Chennai,60.0,71.78,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00082,Mumbai,69.0,,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00829,Delhi,29.0,25.37,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00464,Chennai,22.0,99.35,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00883,Delhi,15.0,10.0,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00792,Chennai,5.0,112.41,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+,Bangalore,1.0,,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00832,Hyderabad,16.0,42.44,Month-to-month,DSL,Bank transfer,,No,batch_import_2026
+CUST-00333,Bangalore,42.0,85.97,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00010,Chennai,20.0,75.87,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00738,Hyderabad,27.0,65.86,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00470,Delhi,24.0,44.29,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00032,Bangalore,36.0,99.05,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00818,Mumbai,42.0 ,60.07,Month-to-month,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00413,Pune,57.0,76.75,Two year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00580,Mumbai,40.0,,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00382,Pune,69.0 ,62.66,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00863,Delhi,6.0,,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00796,Bangalore,28.0,93.71,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01155,Delhi,43.0,34.32,Two year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00877,,39.0,71.68,One year,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-01190,Mumbai,27.0,18.09,Month-to-month,Fiber optic,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00378,Mumbai,50.0,87.1,One year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00089,Hyderabad,46.0,42.25,Month-to-month,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00828,,16.0,,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00601,Mumbai,46.0,71.81,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00213,Bangalore,42.0,61.66,Month-to-month,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00332,Pune,12.0,,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00133,Hyderabad,28.0,54.75,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00346,Hyderabad,6.0,62.09,Month-to-month,No,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00898,Pune,30.0,62.0,One year,Fiber optic,Electronic check,,Yes,batch_import_2026
+CUST-00007,Hyderabad,16.0,97.13,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+,Bangalore,42.0,43.53,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00320,Mumbai,33.0,25.42,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01065,Pune,30.0,73.3,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00187,Pune,39.0,49.13,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00634,Bangalore,26.0,71.8,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00552,Bangalore,32.0,42.13,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00304,Delhi,48.0,64.37,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00031,Bangalore,39.0 ,116.02,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00875,Bangalore,45.0,,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+CUST-00684,,32.0,43.74,Two year,DSL,,0.0,Yes,batch_import_2026
+CUST-01087,Pune,55.0,33.26,Month-to-month,,Mailed check,1.0,No,batch_import_2026
+CUST-00240,Chennai,69.0,142.15,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00067,Delhi,13.0,,Month-to-month,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00174,Pune,4.0,,Month-to-month,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00766,Delhi,70.0,,One year,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-01192,Bangalore,19.0,91.91,Month-to-month,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00245,Delhi,57.0,30.56,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00056,Mumbai,59.0,96.15,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00630,Hyderabad,2.0,39.17,One year,,Mailed check,1.0,Yes,batch_import_2026
+CUST-00583,Chennai,13.0,,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01046,Chennai,20.0,91.47,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00145,Delhi,62.0,,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00090,Hyderabad,3.0,60.76,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-01198,Chennai,43.0,33.04,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00392,Hyderabad,6.0,37.62,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00892,Delhi,60.0,50.38,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00682,Pune,28.0,62.2,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00310,Hyderabad,66.0,70.48,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00359,Chennai,8.0,67.01,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-00093,Bangalore,6.0,54.95,Two year,DSL,,1.0,No,batch_import_2026
+CUST-01111,Mumbai,20.0,,One year,Fiber optic,,1.0,No,batch_import_2026
+CUST-01045,Hyderabad,18.0,73.31,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00376,Bangalore,18.0,84.93,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00243,Mumbai,45.0,39.8,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+,,4.0,67.98,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00087,Hyderabad,60.0,21.9,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00214,Delhi,20.0,75.71,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00444,Bangalore,42.0,63.21,Month-to-month,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00173,Pune,41.0,80.97,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00425,Chennai,8.0,10.75,Two year,No,Credit card,0.0,Yes,batch_import_2026
+CUST-01061,Mumbai,18.0,70.68,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00118,Bangalore,28.0,122.73,Month-to-month,DSL,Electronic check,1.0,Yes,batch_import_2026
+CUST-00119,Hyderabad,42.0 ,116.29,One year,DSL,,1.0,No,batch_import_2026
+CUST-01033,Pune,4.0,,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01094,Bangalore,64.0,26.31,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00000,Chennai,68.0,76.87,One year,,Electronic check,0.0,No,batch_import_2026
+CUST-00394,Bangalore,32.0,64.2,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00401,Chennai,58.0,82.21,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00404,Mumbai,15.0,57.69,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+,Delhi,5.0,67.39,One year,No,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00890,Pune,53.0,,Two year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00162,Chennai,54.0,63.32,Two year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00114,Hyderabad,28.0,101.36,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00670,Bangalore,54.0,51.46,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00150,,60.0,55.59,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-00841,Pune,39.0,86.15,Two year,DSL,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00980,Chennai,61.0,66.5,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00561,Bangalore,48.0,83.51,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00368,Bangalore,58.0,133.13,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00543,Delhi,13.0,99.26,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00477,,40.0,10.0,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-01150,Bangalore,23.0,,Month-to-month,DSL,,0.0,Yes,batch_import_2026
+CUST-00532,Pune,53.0,61.18,Month-to-month,No,Mailed check,1.0,Yes,batch_import_2026
+CUST-00625,Chennai,39.0,57.57,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01020,Delhi,37.0,105.25,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00512,Mumbai,42.0,,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00839,Pune,15.0,79.49,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00072,Hyderabad,51.0,92.47,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00807,Mumbai,37.0,37.65,Month-to-month,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00258,Hyderabad,28.0,88.95,Month-to-month,Fiber optic,,1.0,Yes,batch_import_2026
+CUST-00624,Mumbai,69.0,77.07,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00826,Bangalore,15.0,92.31,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00234,Chennai,46.0,67.76,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00135,Hyderabad,6.0 ,101.51,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00616,Pune,34.0,12.75,One year,No,Credit card,0.0,No,batch_import_2026
+CUST-00516,Chennai,55.0,,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-01070,Delhi,58.0,57.71,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00836,Chennai,32.0,27.92,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00842,Hyderabad,38.0,54.97,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00802,,60.0,43.54,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00809,Pune,6.0,,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00592,Chennai,45.0,53.77,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01077,Pune,55.0,,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00501,Delhi,26.0,43.56,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00538,Mumbai,54.0,42.54,One year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00945,Pune,61.0,154.65,Two year,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00728,Delhi,50.0,70.47,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00581,Bangalore,9.0,,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-00343,Delhi,45.0,45.82,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00975,Hyderabad,41.0,37.79,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00889,Pune,14.0,33.66,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00293,Hyderabad,4.0,118.61,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00364,Chennai,53.0,71.41,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00897,Delhi,39.0,73.47,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00659,Mumbai,12.0,96.88,Month-to-month,DSL,Credit card,1.0,Yes,batch_import_2026
+CUST-00014,Bangalore,35.0,63.35,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00686,Bangalore,17.0,63.43,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00086,Pune,67.0,15.61,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00370,Mumbai,21.0,89.25,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+,,39.0,67.76,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00131,Chennai,17.0,55.09,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00335,Mumbai,47.0,67.05,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00059,Pune,37.0,50.74,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00709,Hyderabad,8.0,95.09,One year,,,0.0,Yes,batch_import_2026
+CUST-01179,Mumbai,47.0,50.2,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00676,Bangalore,18.0,50.38,One year,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00354,Delhi,50.0,,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-01012,Chennai,59.0,14.27,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00424,Bangalore,11.0,,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00292,Pune,6.0,69.62,Two year,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00041,Hyderabad,15.0,63.55,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01080,Chennai,55.0,73.72,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00329,Bangalore,43.0,,One year,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00614,Pune,24.0,,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00429,Pune,57.0,43.22,Two year,DSL,,0.0,No,batch_import_2026
+CUST-00079,Pune,11.0,71.57,One year,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00693,Delhi,63.0,48.87,Month-to-month,DSL,Credit card,,No,batch_import_2026
+CUST-00028,Hyderabad,34.0,61.26,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00707,Mumbai,36.0 ,82.57,One year,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-01002,Chennai,20.0,54.07,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01185,Mumbai,68.0,,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00254,Bangalore,65.0,69.45,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00160,Mumbai,40.0,44.71,One year,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00458,Delhi,49.0,54.48,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00383,Bangalore,40.0,,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00313,Hyderabad,23.0,134.38,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00084,,13.0,78.55,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00574,,53.0,50.29,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00762,Pune,54.0,24.58,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00136,Bangalore,29.0,72.6,Two year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00111,Mumbai,10.0,126.72,One year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00194,Bangalore,51.0,45.03,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00852,Pune,54.0,60.66,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00178,Mumbai,15.0,73.1,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00555,Pune,52.0,65.12,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00723,Bangalore,37.0,88.19,Month-to-month,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00859,Delhi,37.0,87.39,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00496,Bangalore,48.0,73.14,Two year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00903,Hyderabad,44.0,59.84,One year,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00805,Hyderabad,11.0,86.24,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00129,Mumbai,31.0,76.04,Month-to-month,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00715,Pune,34.0,64.02,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00337,Pune,22.0,51.29,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00591,Pune,71.0,71.58,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00608,Hyderabad,23.0,,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00124,Pune,39.0,59.18,Month-to-month,Fiber optic,,1.0,No,batch_import_2026
+CUST-00195,Delhi,26.0,81.19,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00226,Bangalore,29.0,24.24,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-00689,Mumbai,4.0,91.82,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00268,Chennai,6.0 ,99.78,One year,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00152,Bangalore,34.0,48.81,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-00909,Mumbai,46.0,87.31,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00584,Mumbai,3.0,47.2,One year,,Electronic check,0.0,No,batch_import_2026
+CUST-00950,Bangalore,59.0,107.21,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00103,Mumbai,43.0 ,86.02,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00593,Bangalore,67.0,40.76,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01119,Bangalore,11.0,95.98,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00786,Hyderabad,70.0,55.64,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-01017,Bangalore,14.0,84.51,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00884,Mumbai,0.0,27.41,Month-to-month,,,0.0,Yes,batch_import_2026
+CUST-00776,Chennai,56.0,,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00948,Bangalore,35.0,76.36,One year,No,,0.0,Yes,batch_import_2026
+CUST-00849,Pune,1.0,13.36,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00894,Delhi,67.0,84.57,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00227,Pune,67.0,114.02,Month-to-month,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-01141,Bangalore,58.0,10.0,Two year,DSL,Bank transfer,,No,batch_import_2026
+CUST-00301,Bangalore,18.0,68.61,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00854,,34.0 ,68.04,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00275,Hyderabad,37.0,49.96,Two year,No,Electronic check,0.0,No,batch_import_2026
+CUST-00126,Mumbai,68.0,,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00405,Mumbai,43.0,60.18,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00775,Bangalore,54.0,25.49,Month-to-month,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00821,Hyderabad,50.0,103.93,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00711,Hyderabad,12.0,59.0,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00765,Mumbai,43.0,77.24,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00683,Bangalore,22.0 ,149.73,Two year,,Credit card,0.0,No,batch_import_2026
+CUST-00749,Mumbai,16.0,58.68,Two year,Fiber optic,Credit card,,Yes,batch_import_2026
+,Mumbai,43.0,91.14,One year,DSL,,1.0,No,batch_import_2026
+CUST-00036,Bangalore,50.0,48.82,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00139,Delhi,15.0,65.68,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00303,Chennai,58.0,30.75,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00267,Mumbai,19.0,71.61,Two year,Fiber optic,Credit card,1.0,Yes,batch_import_2026
+CUST-00834,,51.0,38.08,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00533,Bangalore,65.0,55.77,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+,Bangalore,31.0,10.0,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00212,Pune,4.0,85.91,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00896,Mumbai,7.0,37.79,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00468,,9.0,95.13,One year,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00198,Chennai,65.0,53.89,Two year,No,Credit card,1.0,Yes,batch_import_2026
+CUST-01047,Chennai,34.0,39.86,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00867,Hyderabad,40.0,10.0,Month-to-month,DSL,,1.0,Yes,batch_import_2026
+CUST-00672,Chennai,60.0,72.13,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00916,Hyderabad,12.0,88.91,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00527,Chennai,9.0,96.25,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00675,Delhi,4.0,88.71,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01073,Bangalore,9.0,53.39,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00814,Chennai,31.0,,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00241,Delhi,1.0,34.77,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00342,Bangalore,16.0,100.75,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00549,Pune,27.0,96.77,One year,Fiber optic,Electronic check,1.0,No,batch_import_2026
+CUST-00386,Mumbai,22.0,33.98,One year,No,Credit card,0.0,Yes,batch_import_2026
+CUST-01123,Bangalore,1.0,101.89,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00206,Mumbai,5.0,42.32,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00295,Chennai,30.0,,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00695,Bangalore,65.0,82.43,One year,DSL,,0.0,No,batch_import_2026
+CUST-01058,Bangalore,61.0,48.1,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00073,Pune,26.0,46.02,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-00605,Chennai,54.0,92.72,Month-to-month,,Credit card,1.0,Yes,batch_import_2026
+CUST-00104,Hyderabad,7.0,17.13,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01050,Pune,63.0,49.75,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-01024,Mumbai,36.0,53.16,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00925,Mumbai,36.0,87.96,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00016,Bangalore,9.0 ,14.07,Month-to-month,,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00439,,55.0,33.3,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00091,Hyderabad,53.0,71.38,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00088,Bangalore,50.0,84.96,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01057,Mumbai,20.0,49.1,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-00908,Pune,47.0,52.19,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00450,Mumbai,57.0,82.5,One year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00717,Delhi,13.0,13.94,Month-to-month,,,0.0,No,batch_import_2026
+CUST-00102,Mumbai,46.0,58.35,Two year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00238,Mumbai,61.0,63.84,Month-to-month,,Credit card,1.0,No,batch_import_2026
+CUST-00068,Delhi,69.0,,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00942,Chennai,50.0 ,77.64,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00246,Pune,68.0,50.47,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00938,Chennai,54.0,87.31,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01091,Bangalore,24.0,88.49,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00157,Pune,41.0,,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00479,Chennai,68.0,46.1,Month-to-month,No,,,No,batch_import_2026
+CUST-00838,Bangalore,30.0,135.87,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00645,Mumbai,51.0,100.56,Month-to-month,DSL,,0.0,No,batch_import_2026
+CUST-00005,Delhi,55.0,86.94,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01097,Chennai,35.0,49.55,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00871,Bangalore,2.0,,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00965,Hyderabad,31.0,64.82,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00018,Mumbai,8.0,47.0,Two year,Fiber optic,Electronic check,,No,batch_import_2026
+CUST-01016,Mumbai,21.0,29.98,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00121,Mumbai,43.0,85.53,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00946,Delhi,20.0,,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00661,Delhi,41.0,10.0,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01015,Hyderabad,39.0,68.14,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00274,Hyderabad,11.0,88.01,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00433,Mumbai,62.0,,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00811,Chennai,69.0,,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-01149,Delhi,48.0,,Two year,No,Credit card,0.0,No,batch_import_2026
+CUST-00311,Bangalore,69.0,33.2,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01133,Bangalore,13.0,84.49,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01145,Bangalore,66.0,10.0,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00780,Mumbai,60.0,,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+,Hyderabad,13.0,43.07,Two year,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00181,Hyderabad,2.0,,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00184,Delhi,40.0,109.71,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00406,Pune,17.0,67.48,One year,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00719,Chennai,48.0,37.79,One year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-01022,Delhi,57.0,49.25,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00606,Mumbai,42.0,100.21,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00692,Hyderabad,20.0,46.99,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00520,Mumbai,11.0 ,87.35,One year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00865,Bangalore,40.0,109.98,One year,DSL,Electronic check,,Yes,batch_import_2026
+CUST-01003,Hyderabad,59.0,87.58,Month-to-month,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-00380,Bangalore,68.0,78.65,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+CUST-00427,Delhi,45.0,10.0,One year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00078,Mumbai,47.0,66.9,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-01009,Bangalore,55.0 ,59.68,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01197,Delhi,49.0 ,92.9,One year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00607,Hyderabad,54.0,99.1,Month-to-month,No,Electronic check,0.0,No,batch_import_2026
+CUST-01075,Mumbai,23.0,57.34,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-01103,Hyderabad,46.0,52.61,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01063,Hyderabad,4.0,71.41,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00958,Delhi,8.0,112.68,Two year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00559,Bangalore,59.0,69.18,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00846,Chennai,53.0,,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00690,Mumbai,67.0,,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-01178,Hyderabad,54.0,106.27,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-01131,Mumbai,57.0,88.33,Month-to-month,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00436,Hyderabad,21.0,10.0,Month-to-month,Fiber optic,Mailed check,1.0,No,batch_import_2026
+CUST-00490,Hyderabad,42.0,109.12,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00394,Bangalore,32.0,64.2,Month-to-month,No,Bank transfer,0.0,Yes,batch_import_2026
+CUST-01112,Chennai,62.0,37.38,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00069,Pune,49.0,37.31,Month-to-month,No,,0.0,No,batch_import_2026
+CUST-00808,Pune,20.0,109.03,One year,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00011,Delhi,62.0,,One year,DSL,Credit card,1.0,No,batch_import_2026
+CUST-00144,Hyderabad,35.0,67.39,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00917,Chennai,53.0,109.69,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00639,Bangalore,54.0,44.72,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+,Chennai,70.0,58.79,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00994,,16.0,,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00440,Delhi,54.0,84.54,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00521,Pune,5.0,53.06,Month-to-month,DSL,Mailed check,1.0,Yes,batch_import_2026
+CUST-01004,Bangalore,33.0,77.58,Month-to-month,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00143,Mumbai,21.0,,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00753,Mumbai,14.0,76.61,One year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00519,Mumbai,21.0,48.48,Month-to-month,Fiber optic,Bank transfer,,No,batch_import_2026
+CUST-00822,Delhi,57.0,63.65,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+,Mumbai,9.0,76.15,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-00612,Pune,10.0,24.0,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01032,,17.0 ,38.67,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00156,Mumbai,69.0,120.37,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00539,Mumbai,59.0,,Month-to-month,,Credit card,0.0,No,batch_import_2026
+CUST-00461,Pune,23.0,23.6,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00576,Pune,15.0,15.78,One year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00255,Delhi,26.0,59.43,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+,Pune,64.0,65.03,Two year,,Credit card,0.0,No,batch_import_2026
+CUST-01006,Chennai,11.0 ,67.25,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00560,Bangalore,61.0,75.64,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00208,Hyderabad,31.0,28.47,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00910,Bangalore,30.0,,One year,,Credit card,0.0,Yes,batch_import_2026
+CUST-00001,Delhi,45.0,68.31,Two year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00269,Mumbai,68.0,50.62,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00265,Bangalore,24.0,40.93,Month-to-month,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-00914,Chennai,20.0,80.21,Two year,,Electronic check,0.0,No,batch_import_2026
+CUST-00230,Mumbai,41.0,13.73,Month-to-month,No,Credit card,0.0,No,batch_import_2026
+CUST-00149,Mumbai,9.0,,Two year,DSL,Electronic check,1.0,No,batch_import_2026
+CUST-01196,,18.0,36.48,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00864,Hyderabad,68.0,19.58,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-01066,Hyderabad,69.0 ,83.17,Month-to-month,,,0.0,No,batch_import_2026
+CUST-00873,Bangalore,32.0,,One year,DSL,Mailed check,0.0,No,batch_import_2026
+,Chennai,42.0,39.97,Month-to-month,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00398,Chennai,61.0,96.44,Two year,,Mailed check,0.0,No,batch_import_2026
+CUST-01106,Delhi,59.0,34.82,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00045,Bangalore,44.0,109.08,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00161,Delhi,13.0,108.28,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00991,Delhi,5.0,65.74,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00727,Bangalore,37.0,83.67,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00629,Hyderabad,27.0,20.08,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00288,,26.0,91.04,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-01059,Delhi,22.0,60.03,Month-to-month,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-01186,Hyderabad,64.0,73.89,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00575,Pune,38.0,40.36,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00850,Pune,47.0,51.74,Month-to-month,Fiber optic,,0.0,Yes,batch_import_2026
+CUST-00911,Chennai,29.0,59.08,Two year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00052,Bangalore,69.0,37.55,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00932,Chennai,27.0,60.61,Month-to-month,,Electronic check,0.0,Yes,batch_import_2026
+CUST-00247,Pune,36.0,64.11,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00476,Delhi,11.0,44.03,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00085,Chennai,36.0,40.13,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00469,Mumbai,11.0,40.36,One year,DSL,Credit card,0.0,No,batch_import_2026
+,Delhi,10.0,71.23,Month-to-month,,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00774,Hyderabad,7.0,30.31,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00331,Hyderabad,34.0,10.0,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00233,Delhi,58.0,43.45,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00588,Hyderabad,9.0,113.53,Month-to-month,Fiber optic,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00475,,15.0,18.51,Month-to-month,DSL,Mailed check,,No,batch_import_2026
+CUST-00599,Mumbai,28.0,39.35,Two year,Fiber optic,Mailed check,1.0,Yes,batch_import_2026
+CUST-00421,Bangalore,24.0,78.08,One year,No,Mailed check,0.0,No,batch_import_2026
+CUST-00182,Delhi,69.0,67.48,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00988,Pune,67.0,84.79,Month-to-month,,,0.0,Yes,batch_import_2026
+CUST-01000,Pune,71.0 ,130.64,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00049,Bangalore,2.0,88.6,One year,No,Electronic check,0.0,Yes,batch_import_2026
+CUST-01138,Mumbai,59.0,,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01029,Hyderabad,58.0,39.46,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00529,Bangalore,9.0,80.14,Two year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00486,Chennai,71.0,42.61,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00497,Mumbai,59.0,58.59,Month-to-month,DSL,Electronic check,0.0,Yes,batch_import_2026
+CUST-00106,Chennai,47.0,53.66,Two year,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00443,Chennai,14.0,55.41,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00646,Mumbai,65.0,105.86,Two year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01036,Chennai,41.0,68.77,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00726,,59.0,46.91,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00190,Mumbai,32.0,106.86,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00282,Pune,41.0,65.46,One year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00029,Pune,36.0,81.3,One year,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+,Delhi,63.0,53.79,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-01001,Hyderabad,30.0,,One year,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00100,Mumbai,49.0,42.82,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00197,Hyderabad,2.0,10.0,Month-to-month,Fiber optic,,0.0,No,batch_import_2026
+CUST-00495,Hyderabad,47.0 ,69.98,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00647,Hyderabad,59.0,84.84,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00987,Bangalore,35.0,,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00044,Hyderabad,61.0,64.09,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00710,Chennai,12.0,61.93,Two year,DSL,Bank transfer,1.0,Yes,batch_import_2026
+CUST-00373,Mumbai,2.0 ,116.01,Month-to-month,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+,Hyderabad,11.0,70.36,One year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00566,Chennai,16.0,,Two year,Fiber optic,Bank transfer,0.0,Yes,batch_import_2026
+CUST-00847,Hyderabad,52.0,47.62,Month-to-month,,Electronic check,1.0,Yes,batch_import_2026
+CUST-00460,Bangalore,26.0,57.02,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00039,Hyderabad,71.0,123.72,Two year,No,,0.0,No,batch_import_2026
+CUST-00434,,31.0,12.54,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+CUST-00973,Hyderabad,26.0,112.54,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01007,Chennai,34.0,59.91,Month-to-month,,Credit card,0.0,Yes,batch_import_2026
+CUST-00456,Chennai,65.0,56.1,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+,Pune,22.0,62.64,One year,No,Mailed check,0.0,Yes,batch_import_2026
+,Mumbai,57.0,88.61,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00827,Mumbai,31.0,27.75,Month-to-month,No,Mailed check,1.0,Yes,batch_import_2026
+CUST-00309,Bangalore,45.0,32.9,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00276,Bangalore,68.0,62.46,One year,,Electronic check,1.0,No,batch_import_2026
+CUST-00636,Hyderabad,57.0,84.61,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00654,Bangalore,48.0,37.23,One year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00622,Chennai,7.0 ,59.32,One year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00844,Bangalore,9.0,73.73,One year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00393,,1.0,17.98,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00107,Bangalore,27.0,140.97,Month-to-month,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00349,Pune,4.0,92.93,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00524,Chennai,65.0,63.51,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00784,,50.0,82.16,One year,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-00047,Pune,3.0,59.42,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00203,,47.0,112.61,Month-to-month,No,Bank transfer,1.0,No,batch_import_2026
+CUST-00021,Bangalore,21.0,54.95,Month-to-month,No,Electronic check,1.0,No,batch_import_2026
+CUST-00402,Delhi,31.0,96.75,Two year,,Credit card,0.0,Yes,batch_import_2026
+CUST-01107,Bangalore,9.0,64.64,Month-to-month,Fiber optic,Mailed check,0.0,Yes,batch_import_2026
+CUST-01154,Mumbai,70.0,,Month-to-month,DSL,Mailed check,0.0,No,batch_import_2026
+CUST-00989,,49.0,60.77,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00741,Hyderabad,9.0,91.5,Month-to-month,DSL,Bank transfer,0.0,Yes,batch_import_2026
+CUST-01147,Hyderabad,64.0,57.89,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00033,Mumbai,71.0,74.38,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00787,Hyderabad,52.0,,Month-to-month,,Bank transfer,0.0,No,batch_import_2026
+CUST-00923,Bangalore,54.0,115.94,Two year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01043,Hyderabad,45.0,63.0,One year,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-01174,Chennai,67.0,119.04,Month-to-month,No,Mailed check,0.0,Yes,batch_import_2026
+CUST-00579,Hyderabad,64.0,66.37,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+CUST-00481,Hyderabad,27.0,121.05,Month-to-month,No,,0.0,Yes,batch_import_2026
+CUST-00931,Hyderabad,27.0,46.05,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00356,Chennai,64.0,64.04,One year,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00759,Bangalore,65.0,27.02,One year,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00092,Delhi,34.0 ,83.57,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-01175,Pune,71.0,79.58,One year,DSL,Credit card,0.0,Yes,batch_import_2026
+CUST-00803,Hyderabad,67.0,10.0,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00745,Chennai,70.0,81.26,One year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00279,Hyderabad,64.0,50.33,One year,Fiber optic,,1.0,No,batch_import_2026
+CUST-00764,Pune,24.0,70.47,Two year,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00604,Bangalore,62.0 ,50.11,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00188,Hyderabad,34.0,84.91,Month-to-month,No,Bank transfer,0.0,No,batch_import_2026
+CUST-00400,Delhi,46.0,62.2,Month-to-month,Fiber optic,Bank transfer,0.0,No,batch_import_2026
+CUST-00257,Chennai,12.0,51.09,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-00944,Pune,61.0,87.78,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01096,Bangalore,5.0,55.24,Month-to-month,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-01161,,68.0,98.25,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-00494,Bangalore,13.0,58.19,One year,No,Bank transfer,1.0,No,batch_import_2026
+CUST-00772,Pune,61.0,116.28,Month-to-month,,Mailed check,0.0,No,batch_import_2026
+CUST-00550,Pune,22.0,84.43,Month-to-month,Fiber optic,Electronic check,0.0,Yes,batch_import_2026
+CUST-00201,Pune,69.0 ,76.15,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00312,Chennai,21.0,99.04,Month-to-month,No,Credit card,0.0,Yes,batch_import_2026
+CUST-00290,,51.0,88.19,Two year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00763,Pune,22.0,15.95,Two year,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01136,Delhi,10.0,10.0,Two year,Fiber optic,Bank transfer,1.0,No,batch_import_2026
+CUST-00949,Hyderabad,40.0,61.57,One year,,Credit card,0.0,No,batch_import_2026
+CUST-00183,Mumbai,63.0,49.4,Month-to-month,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-01176,Hyderabad,27.0,28.49,Month-to-month,Fiber optic,Mailed check,0.0,No,batch_import_2026
+CUST-01068,Chennai,27.0,61.19,Month-to-month,,Electronic check,0.0,No,batch_import_2026
+,Mumbai,35.0 ,33.95,One year,DSL,Bank transfer,0.0,No,batch_import_2026
+CUST-00250,Hyderabad,16.0,50.73,Month-to-month,No,Mailed check,0.0,No,batch_import_2026
+CUST-00823,Pune,46.0,,Month-to-month,Fiber optic,Credit card,0.0,No,batch_import_2026
+CUST-01099,Pune,10.0,10.0,Two year,No,Bank transfer,,No,batch_import_2026
+CUST-00940,Chennai,64.0,62.26,One year,DSL,Bank transfer,1.0,No,batch_import_2026
+CUST-00391,Delhi,48.0,37.66,Two year,No,Mailed check,0.0,No,batch_import_2026
+CUST-01092,Hyderabad,15.0,21.02,Month-to-month,DSL,Electronic check,0.0,No,batch_import_2026
+CUST-01191,Pune,36.0,77.21,One year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00904,Bangalore,2.0,39.3,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00730,Chennai,34.0,42.32,Two year,DSL,Credit card,0.0,No,batch_import_2026
+CUST-00554,Bangalore,47.0,74.56,Month-to-month,Fiber optic,Electronic check,0.0,No,batch_import_2026
+CUST-00366,Mumbai,64.0,101.05,One year,DSL,Mailed check,1.0,No,batch_import_2026
+CUST-00345,Chennai,45.0,102.8,One year,Fiber optic,Credit card,1.0,No,batch_import_2026
+CUST-00535,Bangalore,19.0,32.47,Two year,Fiber optic,,0.0,No,batch_import_2026
+CUST-00478,Bangalore,45.0,87.49,Two year,Fiber optic,Credit card,0.0,Yes,batch_import_2026
+CUST-00919,Pune,27.0 ,86.51,Month-to-month,No,Mailed check,1.0,Yes,batch_import_2026
+CUST-00211,Hyderabad,24.0,10.0,Two year,DSL,Mailed check,0.0,Yes,batch_import_2026
+CUST-00502,Mumbai,47.0,68.98,Two year,No,Electronic check,1.0,No,batch_import_2026
+CUST-00537,Delhi,22.0,66.02,Month-to-month,,Mailed check,0.0,Yes,batch_import_2026
+CUST-00238,Mumbai,61.0,63.84,Month-to-month,,Credit card,1.0,No,batch_import_2026
+CUST-00175,Chennai,27.0,31.59,Two year,No,Mailed check,0.0,No,batch_import_2026

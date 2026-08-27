@@ -1,0 +1,38 @@
+# Python virtual environment
+backend/.venv/
+
+# Backend secrets / environment
+backend/.env
+.env
+.env.*
+
+# Keep example env files
+!.env.example
+!.env.local.example
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database
+backend/autopilot.db
+*.db
+
+# Uploaded datasets / generated local files
+backend/storage/
+
+# Frontend secrets / build files
+frontend/.env.local
+frontend/node_modules/
+frontend/.next/
+
+# Logs
+*.log
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
